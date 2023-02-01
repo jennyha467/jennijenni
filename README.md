@@ -1,3 +1,3 @@
 # jennijenni 📸🗼╰(*°▽°*)╯
 jennijenni
-theme: minima
+
